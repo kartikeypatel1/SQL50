@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [3163-string-compression-iii](https://github.com/kartikeypatel1/SQL50/tree/master/3163-string-compression-iii) |
 <!---LeetCode Topics End-->
