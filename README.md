@@ -83,14 +83,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikeypatel1/SQL50/tree/master/0005-longest-palindromic-substring) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikeypatel1/SQL50/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1021-remove-outermost-parentheses) |
 | [3163-string-compression-iii](https://github.com/kartikeypatel1/SQL50/tree/master/3163-string-compression-iii) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1021-remove-outermost-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikeypatel1/SQL50/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
