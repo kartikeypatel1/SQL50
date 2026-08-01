@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/kartikeypatel1/SQL50/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/kartikeypatel1/SQL50/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartikeypatel1/SQL50/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kartikeypatel1/SQL50/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
