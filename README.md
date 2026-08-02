@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 ## Math
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/kartikeypatel1/SQL50/tree/master/0131-palindrome-partitioning) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 ## Game Theory
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
