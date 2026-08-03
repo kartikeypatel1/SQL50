@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1672-richest-customer-wealth](https://github.com/kartikeypatel1/SQL50/tree/master/1672-richest-customer-wealth) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 ## Math
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/kartikeypatel1/SQL50/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
