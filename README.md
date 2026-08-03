@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1672-richest-customer-wealth](https://github.com/kartikeypatel1/SQL50/tree/master/1672-richest-customer-wealth) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kartikeypatel1/SQL50/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 ## Divide and Conquer
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0633-sum-of-square-numbers) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
