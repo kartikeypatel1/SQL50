@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/kartikeypatel1/SQL50/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/kartikeypatel1/SQL50/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/kartikeypatel1/SQL50/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeypatel1/SQL50/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/0215-kth-largest-element-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kartikeypatel1/SQL50/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/kartikeypatel1/SQL50/tree/master/0131-palindrome-partitioning) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kartikeypatel1/SQL50/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/kartikeypatel1/SQL50/tree/master/0231-power-of-two) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kartikeypatel1/SQL50/tree/master/2220-minimum-bit-flips-to-convert-number) |
