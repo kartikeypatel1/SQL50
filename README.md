@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kartikeypatel1/SQL50/tree/master/0131-palindrome-partitioning) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1021-remove-outermost-parentheses) |
 | [3163-string-compression-iii](https://github.com/kartikeypatel1/SQL50/tree/master/3163-string-compression-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kartikeypatel1/SQL50/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kartikeypatel1/SQL50/tree/master/0131-palindrome-partitioning) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kartikeypatel1/SQL50/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Game Theory
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kartikeypatel1/SQL50/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bitmask
 |  |
 | ------- |
