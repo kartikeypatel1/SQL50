@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kartikeypatel1/SQL50/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/0215-kth-largest-element-in-an-array) |
+| [0260-single-number-iii](https://github.com/kartikeypatel1/SQL50/tree/master/0260-single-number-iii) |
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kartikeypatel1/SQL50/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/kartikeypatel1/SQL50/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/kartikeypatel1/SQL50/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/kartikeypatel1/SQL50/tree/master/0260-single-number-iii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kartikeypatel1/SQL50/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
