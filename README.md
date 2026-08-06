@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1486-xor-operation-in-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
 | ------- |
