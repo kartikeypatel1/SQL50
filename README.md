@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartikeypatel1/SQL50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3163-string-compression-iii](https://github.com/kartikeypatel1/SQL50/tree/master/3163-string-compression-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kartikeypatel1/SQL50/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kartikeypatel1/SQL50/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/kartikeypatel1/SQL50/tree/master/3310-remove-methods-from-project) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
