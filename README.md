@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kartikeypatel1/SQL50/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikeypatel1/SQL50/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
@@ -241,10 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -283,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
