@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kartikeypatel1/SQL50/tree/master/0142-linked-list-cycle-ii) |
 | [0633-sum-of-square-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikeypatel1/SQL50/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Minimax
 |  |
 | ------- |
