@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/kartikeypatel1/SQL50/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/kartikeypatel1/SQL50/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kartikeypatel1/SQL50/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kartikeypatel1/SQL50/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartikeypatel1/SQL50/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/kartikeypatel1/SQL50/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kartikeypatel1/SQL50/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/kartikeypatel1/SQL50/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kartikeypatel1/SQL50/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/kartikeypatel1/SQL50/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1486-xor-operation-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kartikeypatel1/SQL50/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kartikeypatel1/SQL50/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -330,4 +334,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartikeypatel1/SQL50/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/kartikeypatel1/SQL50/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kartikeypatel1/SQL50/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
