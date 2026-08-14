@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartikeypatel1/SQL50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikeypatel1/SQL50/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/kartikeypatel1/SQL50/tree/master/3163-string-compression-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kartikeypatel1/SQL50/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikeypatel1/SQL50/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartikeypatel1/SQL50/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikeypatel1/SQL50/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/kartikeypatel1/SQL50/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikeypatel1/SQL50/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bucket Sort
 |  |
 | ------- |
