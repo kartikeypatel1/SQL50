@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/kartikeypatel1/SQL50/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/kartikeypatel1/SQL50/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kartikeypatel1/SQL50/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/kartikeypatel1/SQL50/tree/master/1563-stone-game-v) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
+| [1386-cinema-seat-allocation](https://github.com/kartikeypatel1/SQL50/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartikeypatel1/SQL50/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kartikeypatel1/SQL50/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kartikeypatel1/SQL50/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kartikeypatel1/SQL50/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/kartikeypatel1/SQL50/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1486-xor-operation-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kartikeypatel1/SQL50/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/kartikeypatel1/SQL50/tree/master/1386-cinema-seat-allocation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeypatel1/SQL50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/kartikeypatel1/SQL50/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikeypatel1/SQL50/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
