@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/kartikeypatel1/SQL50/tree/master/1672-richest-customer-wealth) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeypatel1/SQL50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/kartikeypatel1/SQL50/tree/master/2029-stone-game-ix) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikeypatel1/SQL50/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kartikeypatel1/SQL50/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kartikeypatel1/SQL50/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kartikeypatel1/SQL50/tree/master/2029-stone-game-ix) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kartikeypatel1/SQL50/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartikeypatel1/SQL50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikeypatel1/SQL50/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/kartikeypatel1/SQL50/tree/master/3163-string-compression-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kartikeypatel1/SQL50/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/kartikeypatel1/SQL50/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Binary Search
 |  |
 | ------- |
