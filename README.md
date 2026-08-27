@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kartikeypatel1/SQL50/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kartikeypatel1/SQL50/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kartikeypatel1/SQL50/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
