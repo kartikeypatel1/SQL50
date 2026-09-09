@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kartikeypatel1/SQL50/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kartikeypatel1/SQL50/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartikeypatel1/SQL50/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeypatel1/SQL50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartikeypatel1/SQL50/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartikeypatel1/SQL50/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/kartikeypatel1/SQL50/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kartikeypatel1/SQL50/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kartikeypatel1/SQL50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/kartikeypatel1/SQL50/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikeypatel1/SQL50/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartikeypatel1/SQL50/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kartikeypatel1/SQL50/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
