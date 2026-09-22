@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kartikeypatel1/SQL50/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikeypatel1/SQL50/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3310-remove-methods-from-project](https://github.com/kartikeypatel1/SQL50/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kartikeypatel1/SQL50/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikeypatel1/SQL50/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -459,5 +461,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kartikeypatel1/SQL50/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikeypatel1/SQL50/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
