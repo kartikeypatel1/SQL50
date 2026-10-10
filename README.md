@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kartikeypatel1/SQL50/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/kartikeypatel1/SQL50/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/kartikeypatel1/SQL50/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/kartikeypatel1/SQL50/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/kartikeypatel1/SQL50/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kartikeypatel1/SQL50/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/kartikeypatel1/SQL50/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kartikeypatel1/SQL50/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/kartikeypatel1/SQL50/tree/master/0131-palindrome-partitioning) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/kartikeypatel1/SQL50/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartikeypatel1/SQL50/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartikeypatel1/SQL50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikeypatel1/SQL50/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0692-top-k-frequent-words](https://github.com/kartikeypatel1/SQL50/tree/master/0692-top-k-frequent-words) |
 | [1386-cinema-seat-allocation](https://github.com/kartikeypatel1/SQL50/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/kartikeypatel1/SQL50/tree/master/0692-top-k-frequent-words) |
 | [2029-stone-game-ix](https://github.com/kartikeypatel1/SQL50/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
@@ -420,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartikeypatel1/SQL50/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/kartikeypatel1/SQL50/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
 | ------- |
@@ -481,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartikeypatel1/SQL50/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/kartikeypatel1/SQL50/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
