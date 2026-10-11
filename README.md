@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikeypatel1/SQL50/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kartikeypatel1/SQL50/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartikeypatel1/SQL50/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kartikeypatel1/SQL50/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikeypatel1/SQL50/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kartikeypatel1/SQL50/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
