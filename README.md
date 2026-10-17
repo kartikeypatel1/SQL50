@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kartikeypatel1/SQL50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kartikeypatel1/SQL50/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikeypatel1/SQL50/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kartikeypatel1/SQL50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kartikeypatel1/SQL50/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikeypatel1/SQL50/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3310-remove-methods-from-project](https://github.com/kartikeypatel1/SQL50/tree/master/3310-remove-methods-from-project) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kartikeypatel1/SQL50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kartikeypatel1/SQL50/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikeypatel1/SQL50/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kartikeypatel1/SQL50/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kartikeypatel1/SQL50/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kartikeypatel1/SQL50/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikeypatel1/SQL50/tree/master/0653-two-sum-iv-input-is-a-bst) |
