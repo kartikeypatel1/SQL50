@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikeypatel1/SQL50/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/kartikeypatel1/SQL50/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeypatel1/SQL50/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/kartikeypatel1/SQL50/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/kartikeypatel1/SQL50/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kartikeypatel1/SQL50/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kartikeypatel1/SQL50/tree/master/0287-find-the-duplicate-number) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartikeypatel1/SQL50/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/kartikeypatel1/SQL50/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/kartikeypatel1/SQL50/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/kartikeypatel1/SQL50/tree/master/0216-combination-sum-iii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kartikeypatel1/SQL50/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kartikeypatel1/SQL50/tree/master/2305-fair-distribution-of-cookies) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/kartikeypatel1/SQL50/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
