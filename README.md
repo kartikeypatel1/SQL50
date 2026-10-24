@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/kartikeypatel1/SQL50/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kartikeypatel1/SQL50/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2409-count-days-spent-together](https://github.com/kartikeypatel1/SQL50/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/kartikeypatel1/SQL50/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeypatel1/SQL50/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kartikeypatel1/SQL50/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartikeypatel1/SQL50/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kartikeypatel1/SQL50/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikeypatel1/SQL50/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2409-count-days-spent-together](https://github.com/kartikeypatel1/SQL50/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kartikeypatel1/SQL50/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartikeypatel1/SQL50/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/kartikeypatel1/SQL50/tree/master/3163-string-compression-iii) |
